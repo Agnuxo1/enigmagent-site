@@ -1,0 +1,16 @@
+{
+  "name": "enigmagent-site",
+  "version": "2.0.0",
+  "private": false,
+  "description": "Dependency-free accessible entry point for the EnigmAgent open-source project.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "check": "node scripts/check-site.mjs",
+    "benchmark": "node scripts/benchmark.mjs"
+  },
+  "license": "UNLICENSED",
+  "repository": { "type": "git", "url": "https://github.com/Agnuxo1/enigmagent-site" },
+  "homepage": "https://agnuxo1.github.io/EnigmAgent/"
+}
