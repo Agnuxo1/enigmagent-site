@@ -1,0 +1,15 @@
+{
+  "repository": "Agnuxo1/enigmagent-site",
+  "version": "1.0.0",
+  "source_commit": "2da2238693f5373d17ecf7a74cd3f7ec3bdaeb8b",
+  "tracked_file_count": 2,
+  "archive": {
+    "name": "source-2da2238.tar.gz",
+    "sha256": "e5370406d172af32b07236a95570ee21e97c30443e7a3ab4e6f8d65b04ed17a"
+  },
+  "files": [
+    { "path": "README.md", "bytes": 27, "sha256": "0422b33f19b645349d162c311132d8b315c0c43ae5eb0d301ebf1e4d0a6eafa5" },
+    { "path": "index.html", "bytes": 494, "sha256": "e9bfaca87629e3ca6c78af7d377ae4a82e70039193d61cda29fc62e87f35c819" }
+  ],
+  "verification": "Generated from the clean baseline checkout before any working-tree edit."
+}
